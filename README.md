@@ -1,7 +1,7 @@
 # Alchemist-Version 1
 A real-time gesture-controlled Dr. Strange–style alchemy circle VFX system built with OpenCV, MediaPipe Hands, Maths and Python. This project detects hand gestures via webcam and renders dynamic, animated magical circles, runes, and mandala-style glyphs—similar to the visuals from Marvel's Doctor Strange and Iron Man’s holograms. So enjoy this fun project and enable and explore your creativity of maths, geometry...
 
-✨ **Features:**
+## ✨ **Features:**
 
 ⦁	🔮 Gesture Recognition
 
@@ -16,7 +16,7 @@ A real-time gesture-controlled Dr. Strange–style alchemy circle VFX system bui
 ⦁	Depth-based scaling → Circle automatically changes size as your hand moves closer/farther from the camera
 
 
-🌀 **Dynamic Magical Effects:**
+## 🌀 **Dynamic Magical Effects:**
 
 ⦁	Randomized styles each time you spawn
 
@@ -32,7 +32,7 @@ A real-time gesture-controlled Dr. Strange–style alchemy circle VFX system bui
 
 ⦁	Supports two hands independently
 
-🔥 **Smooth Animations:**
+## 🔥 **Smooth Animations:**
 
 ⦁	Soft transitions
 
@@ -43,7 +43,7 @@ A real-time gesture-controlled Dr. Strange–style alchemy circle VFX system bui
 ⦁	Magical arc segments that grow over time
 
 
-**_Tutorial and Project live use video:_**
+# **_Tutorial and Project live use video:_**
 
 https://github.com/user-attachments/assets/3aad58db-337b-4643-bbd5-a727684b8f19
 
