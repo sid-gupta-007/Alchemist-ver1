@@ -42,6 +42,12 @@ A real-time gesture-controlled Dr. Strange–style alchemy circle VFX system bui
 
 ⦁	Magical arc segments that grow over time
 
+#Screenshots
+
+<img width="500" height="500" alt="Screenshot 2025-11-14 162004" src="https://github.com/user-attachments/assets/954d84a8-80de-4edb-817b-7d1d6e0b2982" />
+
+<img width="600" height="600" alt="Screenshot 2025-11-14 162054" src="https://github.com/user-attachments/assets/72428961-d500-41e9-b176-410ad38f33d4" />
+
 
 # **_Tutorial and Project live use video:_**
 
